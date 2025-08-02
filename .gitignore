@@ -1,0 +1,33 @@
+# === FRONTEND ===
+node_modules/
+dist/
+build/
+.env
+.vscode/
+*.log
+*.lock
+.DS_Store
+coverage/
+.next/
+*.sublime-workspace
+
+# === BACKEND ===
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
+logs/
+*.log
+.vscode/
+.DS_Store
+
+# === GENERAL ===
+*.swp
+*.bak
+*.tmp
+*.out
+*.class
+.idea/
